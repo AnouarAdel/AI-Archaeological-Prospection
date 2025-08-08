@@ -1,0 +1,15 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python caches
+__pycache__/
+
+# IDE and editor-specific files
+.idea/
+.vscode/
+.DS_Store
+
+# Common data file formats (good practice to not commit large datasets)
+*.csv
+*.zip
+*.gz
