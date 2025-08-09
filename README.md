@@ -2,7 +2,7 @@
 
 ![Project Banner](assets/project_banner.jpg)
 
-### OpenAI to Z Challenge Submission by Anouar Adel
+A project developed for the **OpenAI to Z Challenge**, showcasing a multi-criteria scoring model to identify high-potential archaeological sites in the Amazon using satellite data, GIS analysis, and historical text processing.
 
 ---
 
